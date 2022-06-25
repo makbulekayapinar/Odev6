@@ -1,2 +1,2 @@
-# Odev6
+# SQL-Odev6
 PatikaOdev6
